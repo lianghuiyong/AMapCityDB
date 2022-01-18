@@ -20,7 +20,6 @@ Query OK, 0 rows affected (0.00 sec)
 使用API前先[申请Key](https://lbs.amap.com/dev/key)，若无高德地图API账号需要先申请账号
 1. 文档地址：[https://lbs.amap.com/api/webservice/guide/api/district](https://lbs.amap.com/api/webservice/guide/api/district)
 2. 乡镇街道级别返回的adcode是所属区县的adcode。
-3. ==**暂时不支持台湾省的详细区划查询**==。
 
 - 行政区划查询
 ```
